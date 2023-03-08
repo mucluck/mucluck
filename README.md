@@ -1,3 +1,6 @@
+I'm **D** (yep, say D) and I'm Web Developer. I work for Headmade where I currently working on ReactJS+TypeScript project.
+
+
 ## My skills
 I work with:<br/>
 [![TypeScript, JavaScript, HTML, CSS, React, Redux, GraphQL, Apollo, Next, Gatsby, Git, Webpack, StyledComponents, SVG, RegExp, Markdown, Jest, Linux, Sentry, Gitlab, Github, Vercel, Codepen, Figma, VSCode](https://skillicons.dev/icons?i=typescript,js,html,css,react,redux,graphql,apollo,next,gatsby,git,webpack,styledcomponents,svg,regex,md,jest,linux,sentry,gitlab,github,vercel,codepen,figma,vscode&perline=7)](https://skillicons.dev)
